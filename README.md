@@ -1,4 +1,4 @@
-# TaskOne - Writes n lines of random numbers to a file.
+# TaskTwo - Reads numbers from a file and prints them in order.
 
 ### Installation
 ```
