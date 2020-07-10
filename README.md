@@ -16,7 +16,10 @@ For example:
 
 Using the above command, TaskTwo will print all the numbers from 'testFile' in descending order.
 
+
 ### Manpage
+The following manpage can be accessed using the command
+`java TaskTwo -h`
 ```
 NAME
     TaskTwo - Reads numbers from a file and prints them in order.
